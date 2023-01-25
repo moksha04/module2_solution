@@ -1,0 +1,27 @@
+body
+{
+     margin-top: 100px;
+     padding: 25px;
+    background-color: skyblue;
+    background-image: linear-gradient(to right,lightblue,skyblue);
+}
+.main {   
+    padding: 15px;   
+    background-color: white;  
+    border: 1px solid;
+    width: 380px;  
+    overflow: hidden;  
+    margin:auto;  
+    padding: 80px;  
+    background:white;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+}  
+.button
+{
+    background-color: lightblue
+}
+#h1
+{
+    font-family:'Times New Roman', Times, serif;
+}
